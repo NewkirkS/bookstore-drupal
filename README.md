@@ -36,6 +36,6 @@ _None_
 
 ### License
 
-*This webpage is licensed under the MIT license.*
+*This webpage is licensed under the GPL 2.0 license.*
 
 Copyright (c) 2016 **_Stephen Newkirk_**
